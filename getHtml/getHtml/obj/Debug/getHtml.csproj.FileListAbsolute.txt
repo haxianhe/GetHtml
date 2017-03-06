@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\getHtml.exe.config
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\getHtml.exe
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\getHtml.pdb
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\Html2Article.dll
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\Html2Article.xml
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.exe
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.pdb
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\word.pdb
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\bin\Debug\word.dll
+D:\Documents\Visual Studio 2013\Projects\getHtml\getHtml\obj\Debug\getHtml.csproj.ResolveComReference.cache
