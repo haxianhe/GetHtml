@@ -1,2 +1,2 @@
 # GetHtml
-http://blog.csdn.net/finish_dream/article/details/60572303
+this is a program about get article of html
